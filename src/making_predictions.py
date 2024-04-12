@@ -232,8 +232,4 @@ accuracy_df.to_csv('../results/making_predictions/raw_models_accuracy.csv', inde
 print("\nRaw Models Accuracy:")
 for model, accuracy in accuracy_results.items():
     print(f"{model}: {accuracy}")
-
-# Best Models - Preprocessing Technique:
-# LogisticRegression(Standardized)_standardized: 1.0
-# SVC(Standardized)_standardized: 1.0
-# MLPClassifier(Standardized)_standardized: 1.0
+    

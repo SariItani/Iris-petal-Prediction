@@ -1,0 +1,7 @@
+Model,Accuracy
+KNeighborsClassifier(Raw)_raw,0.9519230769230769
+LogisticRegression(Raw)_raw,0.9711538461538461
+DecisionTreeClassifier(Raw)_raw,1.0
+RandomForestClassifier(Raw)_raw,1.0
+SVC(Raw)_raw,0.9807692307692307
+MLPClassifier(Raw)_raw,0.9615384615384616

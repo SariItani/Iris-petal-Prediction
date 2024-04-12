@@ -1,0 +1,7 @@
+Model,Accuracy
+KNeighborsClassifier(Standardized)_standardized,0.9320388349514563
+LogisticRegression(Standardized)_standardized,0.9514563106796117
+DecisionTreeClassifier(Standardized)_standardized,0.9805825242718447
+RandomForestClassifier(Standardized)_standardized,0.9805825242718447
+SVC(Standardized)_standardized,0.9514563106796117
+MLPClassifier(Standardized)_standardized,0.9514563106796117
